@@ -7,6 +7,6 @@
   <p>-HTML</p>
   <p>-CSS</p>
   <p>-JAVASCRIPT</p>
-
+<p>Esse foi o pmeu primeiro projeto feito no DevClub, esse foi um projeto que consegui aprender e evoluir as tecnologias que eu já estava aprendendo anteriormente.</p>
 
 <img src="https://raw.githubusercontent.com/gustavoaduatti29/starbucks/6258d49db7386c8569825e8111e31d1bc013fca1/assets/FotoStarbucksTeste1.png">
