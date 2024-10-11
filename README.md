@@ -1,3 +1,4 @@
+<h1 align="center">
 <h1>Starbucks</h1>
 <br>
 <br>
